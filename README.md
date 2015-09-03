@@ -20,6 +20,9 @@ $ git clone https://github.com/fredrikzkl/SignMeUp.git
 
 # Now navigate into the folder
 $ cd SignMeUp
+
+# Make sure all dependencies are installed
+$ npm install
 ```
 
 ### Starting the server
