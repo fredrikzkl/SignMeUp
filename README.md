@@ -32,6 +32,6 @@ A message should appear saying that the server is running and listening to port 
 
 If you want to stop the server, use the shortcut Ctrl+c on Windows or Cmd+c on OS X. Do not close the window while running the server, this will close the server too. If you need to use Git Bash for something else, open up a new Git Bash window.
 
-Where to go from here? Most of the files you use should be saved to the [public folder](public/). The HTML code for the first page should be put into the [views/index.ejs](views/index.ejs) file. To understand how this works, I highly recommend watching [this tutorial for Node.js](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_). The last videos in the playlist are specifically for Express, the tool this webpage is built on.
+Where to go from here? Most of the files you use should be saved to the [public folder](public/). The HTML code for the first page should be put into the [views/pages](views/pages) folder. To understand how this works, I highly recommend watching [this tutorial for Node.js](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_). The last videos in the playlist are specifically for Express, the tool this webpage is built on.
 
 Need help with Bootstrap, MongoDB or other tools for this project? Check out [thenewboston tutorials](https://www.youtube.com/user/thenewboston/playlists).
