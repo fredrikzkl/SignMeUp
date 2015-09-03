@@ -14,18 +14,18 @@ Need help? Read the ['Getting Started'](../../wiki#getting-started) section in t
 ### Installation
 If you haven't already, clone the project to your computer using the Git Bash tool.
 ```bash
-# Cloning the project will create a folder named 'cs532courseReg'
+# Cloning the project will create a folder named 'SignMeUp'
 # and download all the source code into it.
-$ git clone https://github.com/fredrikzkl/cs532courseReg.git
+$ git clone https://github.com/fredrikzkl/SignMeUp.git
 
 # Now navigate into the folder
-$ cd cs532courseReg
+$ cd SignMeUp
 ```
 
 ### Starting the server
 To view the webpage in your browser, you need to start the server on your computer.
 ```bash
-# It is important that you are in the project folder 'cs532courseReg' when running this command.
+# It is important that you are in the project folder 'SignMeUp' when running this command.
 $ npm start
 ```
 A message should appear saying that the server is running and listening to port 3000. To view the page on your computer, simply go to http://localhost:3000
