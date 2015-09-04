@@ -20,6 +20,11 @@ $ git clone https://github.com/fredrikzkl/SignMeUp.git
 
 # Now navigate into the folder
 $ cd SignMeUp
+```
+**Important!** You have to complete the following step!
+```bash
+# Switch to the development branch for git
+$ git checkout -b develop origin/develop
 
 # Make sure all dependencies are installed
 $ npm install
@@ -31,7 +36,7 @@ To view the webpage in your browser, you need to start the server on your comput
 # It is important that you are in the project folder 'SignMeUp' when running this command.
 $ npm start
 ```
-A message should appear saying that the server is running and listening to port 3000. To view the page on your computer, simply go to http://localhost:3000
+A message should appear saying that the server is running and listening to port 3000. To view the page on your computer, simply go to [http://localhost:3000](http://localhost:3000).
 
 If you want to stop the server, use the shortcut Ctrl+c on Windows or Cmd+c on OS X. Do not close the window while running the server, this will close the server too. If you need to use Git Bash for something else, open up a new Git Bash window.
 
